@@ -1,3 +1,11 @@
+#===============================================================================
+# Merge Hosts Files
+# https://github.com/pavangupta/merge-hosts-files
+#
+# Copyright (c) 2012 Pavan Gupta
+# This code may be freely distributed under the MIT License.
+#===============================================================================
+
 import os
 import glob
 
